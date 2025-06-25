@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-06-25T20:50:51.443Z",
+  "version": "1.0",
+  "data": {
+    "users": [],
+    "conversations": [],
+    "messages": [],
+    "memories": [],
+    "files": [],
+    "agent_configs": [
+      {
+        "id": 1,
+        "name": "Communication",
+        "system_prompt": "You are an executive communication specialist with an ESTJ personality, focused on clear, action-oriented business communication.",
+        "is_active": true,
+        "capabilities": [
+          "communication",
+          "business"
+        ],
+        "created_at": "2025-06-25T20:37:33.408Z",
+        "updated_at": "2025-06-25T20:37:33.408Z"
+      },
+      {
+        "id": 2,
+        "name": "Coder",
+        "system_prompt": "You are an expert software engineer specializing in clean, efficient code with best practices and modern development patterns.",
+        "is_active": true,
+        "capabilities": [
+          "coding",
+          "technical"
+        ],
+        "created_at": "2025-06-25T20:37:33.408Z",
+        "updated_at": "2025-06-25T20:37:33.408Z"
+      },
+      {
+        "id": 3,
+        "name": "Analyst",
+        "system_prompt": "You are a senior data analyst who transforms complex information into actionable insights with clear recommendations.",
+        "is_active": true,
+        "capabilities": [
+          "analysis",
+          "data"
+        ],
+        "created_at": "2025-06-25T20:37:33.408Z",
+        "updated_at": "2025-06-25T20:37:33.408Z"
+      },
+      {
+        "id": 4,
+        "name": "Writer",
+        "system_prompt": "You are a professional content writer who creates compelling, well-structured content adapted to audience and purpose.",
+        "is_active": true,
+        "capabilities": [
+          "writing",
+          "content"
+        ],
+        "created_at": "2025-06-25T20:37:33.408Z",
+        "updated_at": "2025-06-25T20:37:33.408Z"
+      },
+      {
+        "id": 5,
+        "name": "Email",
+        "system_prompt": "You are an email processing specialist who helps manage and organize email communications efficiently.",
+        "is_active": true,
+        "capabilities": [
+          "email",
+          "organization"
+        ],
+        "created_at": "2025-06-25T20:37:33.408Z",
+        "updated_at": "2025-06-25T20:37:33.408Z"
+      },
+      {
+        "id": 6,
+        "name": "Project Manager",
+        "system_prompt": "You are a project management specialist who processes changelogs and generates professional client updates.",
+        "is_active": true,
+        "capabilities": [
+          "project-management",
+          "client-communication"
+        ],
+        "created_at": "2025-06-25T20:37:33.408Z",
+        "updated_at": "2025-06-25T20:37:33.408Z"
+      }
+    ]
+  }
+}
